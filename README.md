@@ -61,7 +61,7 @@ Installation & Usage
 
 1. Clone the Repository
 
-git clone https://github.com/yourusername/productivity-chrome-extension.git
+git clone https://github.com/vinay02diamond/productivity-chrome-extension.git
 cd productivity-chrome-extension
 
 2. Install Dependencies
@@ -130,3 +130,5 @@ This project is licensed under the MIT License.
 Contact
 
 For any questions, feel free to contact me via GitHub or email.
+
+#Output
