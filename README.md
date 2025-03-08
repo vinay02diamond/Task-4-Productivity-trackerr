@@ -1,4 +1,4 @@
-# Productivity Chrome Extension with ReactJS
+# Productivity Chrome Extension with ReactJS,Vite
 
 A Chrome extension to improve user productivity on the browser built with ReactJS.
 
@@ -21,6 +21,6 @@ Further optimizations:
 - Add a manual reset button.
 - Stop calculating time spent after it has breached the timer. (Hint: You need to stop the interval inside the App component conditionally for that domain)
   
-![Screenshot 2024-08-11 080739](https://github.com/user-attachments/assets/05af51dc-ca96-4c55-82db-2fad1b8f13a0)
+
 
   
