@@ -59,25 +59,21 @@ productivity-chrome-extension/
 
 Installation & Usage
 
-1. Clone the Repository
 
-git clone https://github.com/vinay02diamond/productivity-chrome-extension.git
-cd productivity-chrome-extension
-
-2. Install Dependencies
+1. Install Dependencies
 
 Navigate to the react/ directory and install dependencies:
 
 cd react
 npm install
 
-3. Build the React App
+2. Build the React App
 
 npm run build
 
 This will generate a dist/ folder with the compiled files.
 
-4. Load the Extension in Chrome
+3. Load the Extension in Chrome
 
 Open Chrome and navigate to chrome://extensions/.
 
