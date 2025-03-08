@@ -132,3 +132,8 @@ Contact
 For any questions, feel free to contact me via GitHub or email.
 
 #Output
+![Image](https://github.com/user-attachments/assets/da288c4a-da7a-41e7-be6d-525ca1b801a6)
+
+![Image](https://github.com/user-attachments/assets/ed57c7f3-c912-4b90-8cfc-af29747c4837)
+
+![Image](https://github.com/user-attachments/assets/8a28d93b-9be0-48b2-9cde-3e8d7c05130e)
