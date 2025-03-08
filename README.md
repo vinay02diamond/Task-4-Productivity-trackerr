@@ -1,4 +1,18 @@
-# Productivity Chrome Extension with ReactJS,Vite
+Task-4 CHROME EXTENSION FOR PRODUCTIVITY MANAGEMENT
+
+COMPANY : CODTECH IT SOLUTIONS
+
+NAME: VINAY KRISHNA N
+
+INTERN ID: CT08TGF
+
+DOMAIN : MERN STACK DEVELOPER
+
+DURATION : 4 WEEKS
+
+MENTOR : NEELA SANTOSH KUMAR
+
+DESCRIPTION OF THE TASK(not less than 500 words)
 
 A Chrome extension to improve user productivity on the browser built with ReactJS.
 
